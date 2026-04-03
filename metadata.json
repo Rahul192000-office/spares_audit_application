@@ -1,0 +1,7 @@
+{
+  "name": "Spares Audit System 1",
+  "description": "A full-stack application for managing and auditing spare parts inventory using MongoDB.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
